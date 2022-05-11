@@ -26,6 +26,7 @@ Company should focus on expanding business during July.
 There would be less bookings during Weather bad like Light Snow or Rain
 
 Significant variables to predict the demand for shared bikes
+
 Year
 
 temp
